@@ -1,10 +1,10 @@
-## << Weather Application powered by React.js >>
+# << Weather Application powered by React.js >>
 
 ## Setup
 
 npm install && npm start
 
-# then in src/Apikey.js edit the api key
+## then in src/Apikey.js edit the api key
 
 // Visit https://api.openweathermap.org & then signup to get our API keys for free
 
