@@ -1,5 +1,10 @@
 # << Weather Application powered by React.js >>
 
+##• It is a global weather tracking website with searching functionality. After typing location’s city name, It display all important information about its “ temperature, humidity, visibility, wind speed, with it’s exact date and time.”
+
+##• Technologies : React.js, Node.js, Axios, openweather api, geolocation api, live-click api etc.
+
+
 ## Setup
 
 npm install && npm start
